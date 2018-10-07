@@ -9,3 +9,4 @@
 <project path="kernel/sony/msm-4.9/kernel/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LE.UM.2.3.2.r1.4" />
 <project path="kernel/sony/msm-4.9/kernel/drivers/staging/wlan-qc/qcacld-3.0" name="vendor-qcom-opensource-wlan-qcacld-3.0" groups="device" remote="sony" revision="aosp/LE.UM.2.3.2.r1.4" />
 </manifest>
+<project path="kernel/sony/msm-4.9/kernel" name="kernel" groups="device" remote="sony" revision="lineage-16.0/LE.UM.2.3.2.r1.4" />
